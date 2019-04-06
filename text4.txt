@@ -1,2 +1,0 @@
-这个文件用来测试从git上下载文件
-git pull origin master
